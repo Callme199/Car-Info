@@ -1,0 +1,9 @@
+#nav {
+    display: inline;
+    float: left;
+    padding-left: 50px;
+}
+
+#nav a{
+    color: rgb(0, 145, 255);
+}
